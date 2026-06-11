@@ -25,7 +25,7 @@ It detects hand gestures and predicts corresponding alphabets in real-time.
 ## 📊 Dataset
 The dataset used for training is from Kaggle:
 
-👉 https://www.kaggle.com/xxxx
+👉 (https://www.kaggle.com/datasets/ayuraj/asl-dataset?resource=download#)
 
 > Note: The dataset (~2GB) is not included in this repository due to size limitations.
 
