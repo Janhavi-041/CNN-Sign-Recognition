@@ -1,0 +1,5 @@
+asl_cnn_env/
+dataset2/
+
+__pycache__/
+*.pyc
